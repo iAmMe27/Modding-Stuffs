@@ -79,3 +79,7 @@ Time to launch Skyrim! Launch Licentia Black the same way as always and load int
 Head to the pause menu > Mod Configuration Menu and then scroll down to Schlongs of Skyrim. From this menu, head to the `Player / NPC Settings` sub-menu and change your selected schlong from here!
 
 You may also wish to tweak the distribution chances in the lower sub-menus to allow for random NPC chances too. I recommend setting the Futa addon to ~5% and the No Futa addon to ~95%.
+
+### Step 7
+
+You may need to adjust your member in RaceMenu, mostly adjusting of Yaw values, to get proper alignment with the OSuite mods. Use the Vanity Mirror to do this and scroll across to the right to reach the Genitals menu.
