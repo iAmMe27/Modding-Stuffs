@@ -1,4 +1,4 @@
-## So, Futa
+## Swapping to SOS Full
 Swapping to SOS Full to Licentia Black involves a little work, needing a basic understanding of using MO2.
 
 <img src="https://www.freeiconspng.com/uploads/warning-icon-24.png" width="64"/> 
